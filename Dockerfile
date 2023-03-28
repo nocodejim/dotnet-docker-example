@@ -4,10 +4,10 @@ WORKDIR /App
 #Create App
 RUN dotnet new console -o App -n DotNet.Docker
 COPY ./project.cs App
-RUN ls -l
+RUN ls -r
 # Build and publish a release
-RUN dotnet publish DotNet.Docker.csproj -c Release -o out /app/publish
-RUN ls -l
+RUN dotnet publish -c Release -o out /app/publish
+RUN ls -r
 
 # Build runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:7.0
