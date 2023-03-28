@@ -4,8 +4,6 @@ WORKDIR /App
 #Create App
 RUN dotnet new console -o App -n DotNet.Docker
 COPY ./project.cs App
-# Restore as distinct layers
-RUN dotnet restore
 # Build and publish a release
 RUN dotnet publish -c Release -o out
 
