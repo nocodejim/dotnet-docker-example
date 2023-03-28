@@ -1,0 +1,5 @@
+A:\TMP\docker-working\app\bin\Release\net7.0\publish\DotNet.Docker.exe
+A:\TMP\docker-working\app\bin\Release\net7.0\publish\DotNet.Docker.dll
+A:\TMP\docker-working\app\bin\Release\net7.0\publish\DotNet.Docker.deps.json
+A:\TMP\docker-working\app\bin\Release\net7.0\publish\DotNet.Docker.runtimeconfig.json
+A:\TMP\docker-working\app\bin\Release\net7.0\publish\DotNet.Docker.pdb

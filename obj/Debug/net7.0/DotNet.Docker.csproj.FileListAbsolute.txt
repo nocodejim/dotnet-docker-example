@@ -1,0 +1,15 @@
+A:\tmp\docker-working\app\bin\Debug\net7.0\DotNet.Docker.exe
+A:\tmp\docker-working\app\bin\Debug\net7.0\DotNet.Docker.deps.json
+A:\tmp\docker-working\app\bin\Debug\net7.0\DotNet.Docker.runtimeconfig.json
+A:\tmp\docker-working\app\bin\Debug\net7.0\DotNet.Docker.dll
+A:\tmp\docker-working\app\bin\Debug\net7.0\DotNet.Docker.pdb
+A:\tmp\docker-working\app\obj\Debug\net7.0\DotNet.Docker.csproj.AssemblyReference.cache
+A:\tmp\docker-working\app\obj\Debug\net7.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+A:\tmp\docker-working\app\obj\Debug\net7.0\DotNet.Docker.AssemblyInfoInputs.cache
+A:\tmp\docker-working\app\obj\Debug\net7.0\DotNet.Docker.AssemblyInfo.cs
+A:\tmp\docker-working\app\obj\Debug\net7.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+A:\tmp\docker-working\app\obj\Debug\net7.0\DotNet.Docker.dll
+A:\tmp\docker-working\app\obj\Debug\net7.0\refint\DotNet.Docker.dll
+A:\tmp\docker-working\app\obj\Debug\net7.0\DotNet.Docker.pdb
+A:\tmp\docker-working\app\obj\Debug\net7.0\DotNet.Docker.genruntimeconfig.cache
+A:\tmp\docker-working\app\obj\Debug\net7.0\ref\DotNet.Docker.dll
